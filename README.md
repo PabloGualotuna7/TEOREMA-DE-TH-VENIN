@@ -64,7 +64,7 @@ Podemos observar como se apaga las distintas fuentes(izquierda fuente de voltaje
 
 Circuito Eléctrico
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Diagrama%20del%20circuito.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Diagrama_circuito.png)
 
 Fig 2. Circuito eléctrico, identificando sus respectivas fuentes de voltaje
 
@@ -78,27 +78,45 @@ Descripción del circuito
 
 Circuito Eléctrico hecho en Tinkercad
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Circuito%20armado.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_TINKERCAD.png)
 
 Fig 3. Implementación del circuito eléctrico en el simulador Tinkercad
 
-Circuito Eléctrico hecho en Tinkercad (Primer caso)
+Circuito Eléctrico hecho en Tinkercad (Medición de voltaje en el resitor de carga)
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Primer%20caso.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje.png)
 
 Fig 4. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al primer caso 
 
-Circuito Eléctrico hecho en Tinkercad (Segundo caso)
+Circuito Eléctrico hecho en Tinkercad (Medición de corriente en el resitor de carga)
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Segundo%20caso.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_corriente.png)
 
 Fig 5. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
 
-Circuito Eléctrico hecho en Tinkercad (Tercer caso)
+Circuito Eléctrico hecho en Tinkercad (Medición de voltaje en el circuito abierto)
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tercer%20caso.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje_sin_R5.png)
 
-Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso 
+Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+
+Circuito Eléctrico hecho en Tinkercad (Medición de la resistencia equivalente)
+
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_resistencia_sin_R5.png)
+
+Fig 7. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+
+Circuito equivalente de Thévenin hecho en Tinkercad ((Medición de voltaje en el circuito equivalente de Thévenin)
+
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_voltaje.png)
+
+Fig 8. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+
+Circuito equivalente de Thévenin hecho en Tinkercad ((Medición de corriente en el circuito equivalente de Thévenin)
+
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_corriente.png)
+
+Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
 
 5. LISTAS DE COMPONENTES
 
