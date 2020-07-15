@@ -135,11 +135,11 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_Mediciones_generales.png)
 
-Tabla 1. Medición de voltaje aplicando superposición.
+Tabla 1. Comprobación del Teorema de Thévenin.
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_circuito_Th%C3%A9venin.png)
 
-Tabla 2. Medición de corriente aplicando superposición.              
+Tabla 2. Valores del circuito equivalente de Thévenin.              
 
 8. PORCENTAJE DE ERROR.
 
