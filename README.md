@@ -51,11 +51,11 @@ Circuito Eléctrico
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Diagrama_circuito.png)
 
-Fig 2. Circuito eléctrico, identificando sus respectivas fuentes de voltaje
+Fig 2. Diagrama del circuito eléctrico a realizar.
 
 Descripción del circuito
 
-* En el diagrama se observa dos fuentes independientes de voltaje, conectadas a los extremos del circuito.
+* En el diagrama se observa dos fuentes independientes de voltaje.
 * Además, dentro del circuito se aprecia 5 resistencias medidas en KOhms y Ohms.
 * Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
 * Se tiene que la resistencia de 0.56 KOhm forma nodo con la resistencia de 4.7 KOhm y la fuente de 2V. La resistencia de 0.33 KOhm forma un nodo con la resistencia de 0.1 KOhm y con la fuente de voltaje de 2V. La resistenica de 0.1 KOhm forma un nodo con la de 1KOhm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
@@ -67,41 +67,41 @@ Circuito Eléctrico hecho en Tinkercad
 
 Fig 3. Implementación del circuito eléctrico en el simulador Tinkercad
 
-Circuito Eléctrico hecho en Tinkercad (Medición de voltaje en el resitor de carga)
+Circuito Eléctrico hecho en Tinkercad
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje.png)
 
-Fig 4. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al primer caso 
+Fig 4. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el resitor de carga
 
-Circuito Eléctrico hecho en Tinkercad (Medición de corriente en el resitor de carga)
+Circuito Eléctrico hecho en Tinkercad 
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_corriente.png)
 
-Fig 5. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al segundo caso
+Fig 5. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de corriente en el resitor de carga
 
-Circuito Eléctrico hecho en Tinkercad (Medición de voltaje en el circuito abierto)
+Circuito Eléctrico hecho en Tinkercad 
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_voltaje_sin_R5.png)
 
-Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+Fig 6. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el circuito abierto
 
-Circuito Eléctrico hecho en Tinkercad (Medición de la resistencia equivalente)
+Circuito Eléctrico hecho en Tinkercad 
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Medicion_resistencia_sin_R5.png)
 
-Fig 7. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+Fig 7. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de la resistencia equivalente
 
-Circuito equivalente de Thévenin hecho en Tinkercad (Medición de voltaje en el circuito equivalente de Thévenin)
+Circuito equivalente de Thévenin hecho en Tinkercad 
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_voltaje.png)
 
-Fig 8. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+Fig 8. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de voltaje en el circuito equivalente de Thévenin
 
-Circuito equivalente de Thévenin hecho en Tinkercad (Medición de corriente en el circuito equivalente de Thévenin)
+Circuito equivalente de Thévenin hecho en Tinkercad 
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_corriente.png)
 
-Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
+Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Medición de corriente en el circuito equivalente de Thévenin
 
 5. LISTAS DE COMPONENTES
 
@@ -117,13 +117,13 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
-* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 20 y 2 V.
+* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 12 y 2 V.
 
 * Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 0.56 KOhm, 4.7 KOhm, .33 KOhm, 0.1 KOhm y 1 KOhm.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
-* Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
+* Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo.
 
 * Realizamos las mediciones de volatje y resistencia, aplicando el teorema de Thévenin, pedidas en la guía.
 
