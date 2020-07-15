@@ -2,17 +2,17 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. De este modo utilizaremos el teorema de Thevenin el cual es solo aplicable en un circuito lineal comprendido entre dos puntos A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión o voltaje, en serie con una resistencia equivalente. 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. De este modo utilizaremos el teorema de thevernin el cual nos permite nos facilita resolver un circuito eléctrico complejo a un sencillo, obteniendo el voltaje y la resistencia del teorema.
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teóricos del teorema Thevenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores de voltaje y corriente.
+* Aplicar los conceptos teóricos del teorema thévenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores la fuente y la resistencias llamadas como (thévenin).
 
-* Analizar los pasos que se requieren para aplicar el teorema de Thevenin.
+* Encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados, tomando en cuenta que al menos se debe tener una fuente independiente.
 
 * Comprobar que los resultados de voltaje y corriente calculados son iguales a los medidos en nuestra simulación
 
-* Comparar los porcentajes de error entre el valor calculado y el medido de nuestro circuito comparado con el equivalente de Thevenin.
+* Comparar los porcentajes de error entre el valor calculado y el medido en el simulador TINKERCAD.
 
 3. MARCO TEÓRICO 
 
@@ -29,6 +29,12 @@ En la teoría de circuitos, el teorema de Thevenin es uno de los postulados que 
 * Al permitir crear un circuito equivalente de uno más grande, se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga.
 * Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente.
 * Es posible encontrar un circuito equivalente simple hasta del circuito más complejo.
+
+* Calcular la resistencia de Thevenin
+Para obtener el valor de la resistencia de Thevenin (RTH), es necesario realizar reemplazar cada una de las fuentes de tensión que integran el circuito original a través de un cortocircuito, mientras que en el caso de las fuentes de corriente pasarán a ser circuito abierto. A partir de aquí se procede a calcular la resistencia total del circuito. En el momento en que se vaya a realizar el cálculo de la resistencia de Thevenin, se pueden usar diversos métodos. El más común es agrupando las resistencias en paralelo, transformándolas en una sola. De esta manera, el circuito equivalente solo deberá contener resistencias en serie. Estas deberán ser sumadas, lo que nos dará como resultado la resistencia de Thevenin. Si estamos ante un circuito de corriente alterna, entonces será necesario realizar el cálculo de la impedancia equivalente.
+
+* Calcular la tensión de Thevenin: 
+En el circuito original se calcula la tensión existente entre los puntos A y B. La mejor manera es realizando la suma y resta de los valores de las fuentes de tensión. Lo mismo será con las caídas de tensión en las resistencias, pero aplicando en este caso las leyes de Kirchhoff, la ley de ohm u otro método válido para el procedimiento.
 
 Pasos para aplicar el teorema de Thevenin
 
@@ -111,9 +117,9 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
-* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 20 y 2 V.
+* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 20 y 12 V.
 
-* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 0.56 KOhm, 4.7 KOhm, 0.33 KOhm, 0.1 KOhm y 1KOhm
+* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 4 de valores de 1 KOhm, 0.47 KOhm, 2.2 KOhm y 0.82 KOhm.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
