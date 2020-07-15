@@ -106,7 +106,7 @@ Circuito Eléctrico hecho en Tinkercad (Medición de la resistencia equivalente)
 
 Fig 7. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
 
-Circuito equivalente de Thévenin hecho en Tinkercad ((Medición de voltaje en el circuito equivalente de Thévenin)
+Circuito equivalente de Thévenin hecho en Tinkercad (Medición de voltaje en el circuito equivalente de Thévenin)
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_voltaje.png)
 
@@ -148,17 +148,17 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_voltaje.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_Mediciones_generales.png)
 
 Tabla 1. Medición de voltaje aplicando superposición.
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Tabla_corriente.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_circuito_Th%C3%A9venin.png)
 
 Tabla 2. Medición de corriente aplicando superposición.              
 
 8. PORCENTAJE DE ERROR.
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Porcentaje%20de%20error.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_porcentaje_error.png)
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
