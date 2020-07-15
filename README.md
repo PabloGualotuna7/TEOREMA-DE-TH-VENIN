@@ -151,7 +151,7 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 * Se concluye que este teorema se puede aplicar a cualquier circuito lineal el cual posea por lo menos una fuente independiente, ya sea de corriente o de voltaje, para reemplazarlo con un circuito equivalente de THÉVENIN mucho más sencillo. 
 
-* En la práctica realizada en el simulador para suprimir las fuentes ideales de tensión se ponen uniones donde debería ir conectada esa fuente, de ese modo estariamos cumpliendo con la teoria donde, una fuente de voltaje se reemplaza por un cortocircuito. 
+* En nuestro circuito equivalente los valores de voltaje y corriente en nuestra resistencia R5 van a tener un pequeño error a comparación del circuito original de dos fuentes, debido a los cálculos que requieren una fuente de 5.055V y una resistencia de 298Ohm, que no se pueden colocar en el simulador. Los valores mas cercanos a ingresar fueron de 5V y 300Ohms, provocando este error de medida. 
 
 * Este método se vuelve más fácil para analizar el circuito debido a que se toma un voltaje de referencia el cuál siempre es igual a cero y nos elimina una variable para calcular, permitiéndonos una resolución más rápida del ejercicio.
 
