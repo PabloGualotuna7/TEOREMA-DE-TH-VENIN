@@ -16,49 +16,15 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
-El teorema de superposición, en circuitos eléctricos, establece que el voltaje entre dos puntos, o la corriente a través de ellos, es la suma algebraica de los voltajes (o de las corrientes si es el caso), debidos a cada fuente, como si cada una actuara de manera independiente.
-Este teorema permite analizar circuitos lineales que contengan más de una fuente independiente, ya que solamente se requiere calcular la contribución de cada una por separado.
+Es uno de los más importantes y de mayor aplicación. Sea un circuito lineal, en el que puede haber de todo, R, L, C, M, fuentes de tensión y corriente, independientes y dependientes. Distinguimos dos bornes A y B de ese circuito y conectamos una impedancia exterior Z
 
-La dependencia lineal es determinante para que el teorema se aplique. Un circuito lineal es aquel cuya respuesta es directamente proporcional a la entrada.
+Se trata de calcular la corriente que circula por esa impedancia, sin resolver todo el circuito. Hacemos una hipótesis más: no hay mutua entre Z y el resto del circuito
 
-Por ejemplo, la ley de Ohm aplicada a una resistencia eléctrica establece que V = i.R, donde 
+1. Voltaje de Vacío o de Circuito Abierto: VAB Es el voltaje que aparece entre A y B cuando no existe la impedancia Z Es el que mediría un voltímetro "ideal" (ideal en el sentido de que al conectarse no modifica el voltaje que existía antes entre esos puntos. Ya precisaremos lo que esto significa). En Laplace, el voltaje de vacío será VAB(s).
 
-V=voltaje 
-R=resistencia
-i=corriente. Se trata entonces de una dependencia lineal del voltaje y la corriente en una resistencia.
+2. Impedancia Vista: ZAB Para definirla, anulemos todas las fuentes. Queda un circuito "pasivo" (mejor dicho: sin fuentes) ¿Qué quiere decir "anular las fuentes"? Las fuentes de tensión se cortocircuitan; las de corriente se abren. ¿Cuáles? Las independientes y datos previos; no así las dependientes que no son generadores sino vínculos. Una vez anuladas las fuentes, aplicamos una fuente de tensión E entre A y B.
 
-En circuitos lineales, el principio de superposición se aplica teniendo en cuenta lo siguiente:
-
-* Hay que considerar cada fuente de voltaje independiente por separado y para ello es necesario apagar todas las demás fuentes. Basta con poner a 0 V todas las que no estén bajo análisis o bien sustituirlas en el esquema con un cortocircuito.
-* Si la fuente es de corriente entonces hay que abrir el circuito.
-* Cuando se considera la resistencia interna de las fuentes tanto de corriente como de voltaje, estas deben permanecer en su lugar, formando parte del resto del circuito.
-* Si existen fuentes dependientes, no se deben tocar y deben quedar tal cual como aparecen en el circuito.
-
-Además, el teorema de superposición ayuda a encontrar:
-
-* Valores de tensión, en una posición de un circuito, que tiene más de una fuente de tensión y/o corriente.
-* Valores de corriente, en un circuito con más de una fuente de tensión y/o voltaje.
-
-Pasos a realizar:
-
-a) Se anulan todas las fuentes menos una:
-
-NOTA: 
-
-* Anular una fuente de tensión es cortocircuitarla.
-* Anular una fuente de corriente es dejarla en circuito abierto.
-
-b) Se calcula la respuesta del circuito (tensión o corriente) a la única fuente que hemos dejado.
-
-c) Se repiten los pasos 1 y 2 con cada fuente.
-
-d) Se suman las respuestas de cada fuente.
-
-![](https://raw.githubusercontent.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/master/img/TEOREMA%20SUPERPOSICI%C3%93N.jpg)
-
-Fig 1. Equivalenetes de fuentes independientes de voltaje y corriente al momento de aplicar el teorema de superposición.
-
-Podemos observar como se apaga las distintas fuentes(izquierda fuente de voltaje y en la derecha fuente de corriente), cabe recalcar que una fuente dependiente esa se le deja tal y como está. 
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Diagrama_circuito.png)
 
 4. DIAGRAMAS
 
