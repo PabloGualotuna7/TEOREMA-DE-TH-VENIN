@@ -36,8 +36,6 @@ Para obtener el valor de la resistencia de Thevenin (RTH), es necesario realizar
 * Calcular la tensión de Thevenin: 
 En el circuito original se calcula la tensión existente entre los puntos A y B. La mejor manera es realizando la suma y resta de los valores de las fuentes de tensión. Lo mismo será con las caídas de tensión en las resistencias, pero aplicando en este caso las leyes de Kirchhoff, la ley de ohm u otro método válido para el procedimiento.
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/13.jpg)
-
 Pasos para aplicar el teorema de Thevenin
 
 Cuando se construye un circuito equivalente de Thevenin, es posible realizar cálculos más sencillos y en menos tiempo que al trabajar con el circuito completo original. Para lograr aplicar el teorema correctamente, se deben realizar estos pasos:
