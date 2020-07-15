@@ -26,6 +26,8 @@ Se trata de calcular la corriente que circula por esa impedancia, sin resolver t
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/11.JPG)
 
+Establece que si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una impedancia de forma que al conectar un elemento entre las dos terminales A y B, la tensión que cae en él y la intensidad que lo atraviesa son las mismas tanto en el circuito real como en el equivalente. El teorema de Thévenin es el dual del Teorema de Norton.
+
 4. DIAGRAMAS
 
 Circuito Eléctrico
