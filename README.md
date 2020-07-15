@@ -8,11 +8,11 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Aplicar los conceptos teóricos del teorema Thevenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores de voltaje y corriente.
 
-* Analizar los pasos que se requieren para aplicar el teorema de superposición.
+* Analizar los pasos que se requieren para aplicar el teorema de Thevenin.
 
 * Comprobar que los resultados de voltaje y corriente calculados son iguales a los medidos en nuestra simulación
 
-* Comparar los porcentajes de error entre el valor calculado y el medido en el simulador TINKERCAD.
+* Comparar los porcentajes de error entre el valor calculado y el medido de nuestro circuito comparado con el equivalente de Thevenin.
 
 3. MARCO TEÓRICO 
 
