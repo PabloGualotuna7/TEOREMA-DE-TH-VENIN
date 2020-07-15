@@ -120,7 +120,7 @@ Fig 9. Implementación del circuito eléctrico en el simulador Tinkercad. Con me
 
 5. LISTAS DE COMPONENTES
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Lista%20de%20componentes.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Lista_componentes.png)
 
 Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
