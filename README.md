@@ -149,7 +149,7 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 9. CONCLUSIONES 
 
-* Se concluye que experimentalmente, para encontrar el voltaje "VA" y corriente "Ix" de nuestro circuito mediante el teorema de superposcición es igual la suma de los voltajes y corrientes independientes de los dos circuitos analizados cuando V2=0 y V1=0. 
+* Se concluye que este teorema se puede aplicar a cualquier circuito lineal el cual posea por lo menos una fuente independiente, ya sea de corriente o de voltaje, para reemplazarlo con un circuito equivalente de THÉVENIN mucho más sencillo. 
 
 * En la práctica realizada en el simulador para suprimir las fuentes ideales de tensión se ponen uniones donde debería ir conectada esa fuente, de ese modo estariamos cumpliendo con la teoria donde, una fuente de voltaje se reemplaza por un cortocircuito. 
 
