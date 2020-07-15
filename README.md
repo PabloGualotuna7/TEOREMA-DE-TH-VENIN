@@ -6,7 +6,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 2. OBJETIVOS
 
-* Aplicar los conceptos teóricos del teorema thévenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores la fuente y la resistencias llamadas como (thévenin).
+* Aplicar los conceptos teóricos del teorema Thévenin, mediante la realización de la practica en el simulador TINKERCAD, para la resolución o análisis de los circuitos con el fin de encontrar los valores la fuente y la resistencias llamadas como (Thévenin).
 
 * Encontrar un circuito equivalente de manera simple y rápida aun en circuitos de naturaleza complicados, tomando en cuenta que al menos se debe tener una fuente independiente.
 
