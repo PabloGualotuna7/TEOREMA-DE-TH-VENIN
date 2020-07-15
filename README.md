@@ -97,7 +97,7 @@ Circuito equivalente de Thévenin hecho en Tinkercad (Medición de voltaje en el
 
 Fig 8. Implementación del circuito eléctrico en el simulador Tinkercad. Con mediciones referentes al tercer caso
 
-Circuito equivalente de Thévenin hecho en Tinkercad ((Medición de corriente en el circuito equivalente de Thévenin)
+Circuito equivalente de Thévenin hecho en Tinkercad (Medición de corriente en el circuito equivalente de Thévenin)
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Circuito_Thevenin_corriente.png)
 
@@ -125,7 +125,7 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Colocamos un multímetro y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de superposición, pedidas en la guía.
+* Realizamos las mediciones de volatje y resistencia, aplicando el teorema de Thévenin, pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 
