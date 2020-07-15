@@ -32,10 +32,10 @@ En la teoría de circuitos, el teorema de Thevenin es uno de los postulados que 
 
 Fig 1. Demostración de Thévenin.
 
-* Calcular la resistencia de Thevenin:
+* Calcular la resistencia de Thévenin:
 Para obtener el valor de la resistencia de Thevenin (RTH), es necesario realizar reemplazar cada una de las fuentes de tensión que integran el circuito original a través de un cortocircuito, mientras que en el caso de las fuentes de corriente pasarán a ser circuito abierto. A partir de aquí se procede a calcular la resistencia total del circuito. En el momento en que se vaya a realizar el cálculo de la resistencia de Thevenin, se pueden usar diversos métodos. El más común es agrupando las resistencias en paralelo, transformándolas en una sola. De esta manera, el circuito equivalente solo deberá contener resistencias en serie. Estas deberán ser sumadas, lo que nos dará como resultado la resistencia de Thevenin. Si estamos ante un circuito de corriente alterna, entonces será necesario realizar el cálculo de la impedancia equivalente.
 
-* Calcular la tensión de Thevenin: 
+* Calcular la tensión de Thévenin: 
 En el circuito original se calcula la tensión existente entre los puntos A y B. La mejor manera es realizando la suma y resta de los valores de las fuentes de tensión. Lo mismo será con las caídas de tensión en las resistencias, pero aplicando en este caso las leyes de Kirchhoff, la ley de ohm u otro método válido para el procedimiento.
 
 Pasos para aplicar el teorema de Thévenin
@@ -160,6 +160,8 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 * El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso nos da un porcentaje de error entre 0 y 1.04 de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados, esto debido también a que no sabemos con cuantos decimales trabaja el simulador TINKERCAD.
  
 10. RECOMENDACIONES 
+
+* Se recomienda revisar la teoría del teorema de Thévenin para así desarrollar de una manera más rápida el ejercicio propuesto.
 
 * Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuáles son positivos o negativos, y no crear una confusión al momento de conectar el circuito.
 
