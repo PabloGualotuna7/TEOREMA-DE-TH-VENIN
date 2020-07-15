@@ -24,7 +24,7 @@ Se trata de calcular la corriente que circula por esa impedancia, sin resolver t
 
 2. Impedancia Vista: ZAB Para definirla, anulemos todas las fuentes. Queda un circuito "pasivo" (mejor dicho: sin fuentes) ¿Qué quiere decir "anular las fuentes"? Las fuentes de tensión se cortocircuitan; las de corriente se abren. ¿Cuáles? Las independientes y datos previos; no así las dependientes que no son generadores sino vínculos. Una vez anuladas las fuentes, aplicamos una fuente de tensión E entre A y B.
 
-![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Diagrama_circuito.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/11.JPG)
 
 4. DIAGRAMAS
 
