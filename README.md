@@ -184,7 +184,7 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
-![](https://github.com/Edgar1Gallegos/TEOREMA-DE-SUPERPOSICION/blob/master/img/Cronograma.png)
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Cronograma.png)
 
 12. BIBLIOGRAFÍA 
 
