@@ -158,7 +158,7 @@ Tabla 2. Medición de corriente aplicando superposición.
 
 8. PORCENTAJE DE ERROR.
 
-![]()
+![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/Tabla_porcentaje_de_error.png)
 
 Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
