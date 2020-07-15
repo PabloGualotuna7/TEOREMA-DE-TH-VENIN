@@ -16,17 +16,28 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
-Es uno de los más importantes y de mayor aplicación. Sea un circuito lineal, en el que puede haber de todo, R, L, C, M, fuentes de tensión y corriente, independientes y dependientes. Distinguimos dos bornes A y B de ese circuito y conectamos una impedancia exterior Z
+El teorema de Thévenin fue enunciado por primera vez por el científico alemán Hermann von Helmholtz en el año 1853 pero fue redescubierto en 1883 por el ingeniero de telégrafos francés Léon Charles Thévenin (1857–1926), de quien toma su nombre. El teorema de Thévenin es el dual del teorema de Norton.
 
-Se trata de calcular la corriente que circula por esa impedancia, sin resolver todo el circuito. Hacemos una hipótesis más: no hay mutua entre Z y el resto del circuito
+En la teoría de circuitos eléctricos, el teorema de Thévenin establece que si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una resistencia, de forma que al conectar un elemento entre los dos terminales A y B, la tensión que queda en él y la intensidad que circula son las mismas tanto en el circuito real como en el equivalente.
 
-1. Voltaje de Vacío o de Circuito Abierto: VAB Es el voltaje que aparece entre A y B cuando no existe la impedancia Z Es el que mediría un voltímetro "ideal" (ideal en el sentido de que al conectarse no modifica el voltaje que existía antes entre esos puntos. Ya precisaremos lo que esto significa). En Laplace, el voltaje de vacío será VAB(s).
-
-2. Impedancia Vista: ZAB Para definirla, anulemos todas las fuentes. Queda un circuito "pasivo" (mejor dicho: sin fuentes) ¿Qué quiere decir "anular las fuentes"? Las fuentes de tensión se cortocircuitan; las de corriente se abren. ¿Cuáles? Las independientes y datos previos; no así las dependientes que no son generadores sino vínculos. Una vez anuladas las fuentes, aplicamos una fuente de tensión E entre A y B.
+El teorema de Thevenin es uno de los enunciados básicos de la teoría de circuitos. A través de este, es posible calcular y simplificar un sistema eléctrico. Aplicando este teorema, se puede convertir un circuito complejo, el cual cuenta con dos terminal, a uno simple, compuesto por una sola fuente de voltaje en serie con una resistencia.
 
 ![](https://github.com/PabloGualotuna7/TEOREMA-DE-THEVENIN/blob/master/img/11.JPG)
 
-Establece que si una parte de un circuito eléctrico lineal está comprendida entre dos terminales A y B, esta parte en cuestión puede sustituirse por un circuito equivalente que esté constituido únicamente por un generador de tensión en serie con una impedancia de forma que al conectar un elemento entre las dos terminales A y B, la tensión que cae en él y la intensidad que lo atraviesa son las mismas tanto en el circuito real como en el equivalente. El teorema de Thévenin es el dual del Teorema de Norton.
+En la teoría de circuitos, el teorema de Thevenin es uno de los postulados que más se suele aplicar, ya que ofrece  mayores facilidades al momento de trabajar con circuitos complejos:
+
+* Al permitir crear un circuito equivalente de uno más grande, se puede calcular en menos tiempo el valor de voltajes, la corriente o hasta la potencia de un circuito una vez que se conecta una carga.
+* Es aplicable a cualquier elemento del circuito, siempre que este cuente con una fuente independiente.
+* Es posible encontrar un circuito equivalente simple hasta del circuito más complejo.
+
+Pasos para aplicar el teorema de Thevenin
+
+Cuando se construye un circuito equivalente de Thevenin, es posible realizar cálculos más sencillos y en menos tiempo que al trabajar con el circuito completo original. Para lograr aplicar el teorema correctamente, se deben realizar estos pasos:
+
+* Al eliminar las fuentes de alimentación del circuito original, será posible encontrar la resistencia de Thevenin. Luego se deberá calcular el valor de la resistencia total que existe entre los punto A y B donde se encuentre conectada la resistencia de carga.
+* Para el caso de hallar la tensión de Thevenin, se elimina la resistencia de carga, y se calcula el voltaje de los puntos de conexión abiertos donde esta se encontraba.
+* Construye el circuito equivalente utilizando la tensión de Thevenin y la resistencia de Thevenin en serie. Conecta la resistencia de carga entre los puntos de conexión abiertos de este circuito.
+* Utilizando las reglas de circuitos en serie, se analiza la tensión y corriente de la resistencia de carga.
 
 4. DIAGRAMAS
 
