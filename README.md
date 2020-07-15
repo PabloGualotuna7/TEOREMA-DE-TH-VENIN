@@ -117,9 +117,9 @@ Fig 7. Descripción de los componenetes usados en el simulador Tinkercad.
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
-* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 20 y 12 V.
+* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 20 y 2 V.
 
-* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 4 de valores de 1 KOhm, 0.47 KOhm, 2.2 KOhm y 0.82 KOhm.
+* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 0.56 KOhm, 4.7 KOhm, .33 KOhm, 0.1 KOhm y 1 KOhm.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde hace falta.
 
