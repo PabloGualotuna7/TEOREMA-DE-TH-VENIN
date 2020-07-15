@@ -155,7 +155,7 @@ Tabla 3. Porcentaje de error al momento de realizar la práctica.
 
 * Este método se vuelve más fácil para analizar el circuito debido a que se toma un voltaje de referencia el cuál siempre es igual a cero y nos elimina una variable para calcular, permitiéndonos una resolución más rápida del ejercicio.
 
-* El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso nos da un 1.5% de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados, esto debido también a que no sabemos con cuantos decimales trabaja el simulador TINKERCAD.
+* El porcentaje error nos demuestra que el informe se ha desarrollado de manera correcta y este caso nos da un porcentaje de error entre 0 y 1.04 de error entre el calculado y el medido, el cual es un porcentaje bajo y no afecta a los resultados, esto debido también a que no sabemos con cuantos decimales trabaja el simulador TINKERCAD.
  
 10. RECOMENDACIONES 
 
